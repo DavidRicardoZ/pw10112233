@@ -1,0 +1,11 @@
+commit 2df62ecd2db01aebdb993ead9105651f5e19d74e
+Author: CCDM19 <ccdm19@CCDM19.local>
+Date:   Thu Sep 7 10:41:56 2023 -0700
+
+    Encabezado y titulo
+
+commit 617ec06d0c32c37a3ef7c7a7feb7e3aaeee31997
+Author: CCDM19 <ccdm19@CCDM19.local>
+Date:   Thu Sep 7 10:33:06 2023 -0700
+
+    Archivos iniciales de la clase
